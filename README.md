@@ -1,3 +1,3 @@
-# Petals Template
+# Petals Popup
 
-Scaffold template for petals (components)
+Popup virtual component
